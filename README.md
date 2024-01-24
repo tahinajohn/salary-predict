@@ -1,5 +1,5 @@
 # Salary predict
-Avec notre application, vous pouvez obtenir une estimation personnalisée de votre salaire futur en saisissant simplement votre nombre d'années d'expérience
+Avec cette application, vous pouvez obtenir une estimation personnalisée de votre salaire futur en saisissant simplement votre nombre d'années d'expérience
 
 # Install Streamlit
 pip install streamlit
